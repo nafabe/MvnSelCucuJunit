@@ -52,7 +52,7 @@ public class BrowserFactory {
                             chrOptions.addArguments("--ignore-certificate-errors");
                             chrOptions.setExperimentalOption("prefs", chromePrefs);
                             try {
-                                driver = new RemoteWebDriver(new URL("http://54.224.48.204:4444/wd/hub"), chrOptions);
+                                driver = new RemoteWebDriver(new URL("http://18.232.138.138:4444/wd/hub"), chrOptions);
                             } catch (MalformedURLException e) {
                                 e.printStackTrace();
                             }
