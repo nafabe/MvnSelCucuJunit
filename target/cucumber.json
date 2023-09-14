@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2023-09-13T03:45:01.713Z",
+        "start_timestamp": "2023-09-14T04:31:07.242Z",
         "line": 4,
         "name": "User should be able to validate main tabs on HRM Homepage",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9599095704,
+              "duration": 8794848085,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 284951050,
+              "duration": 197748843,
               "status": "passed"
             },
             "line": 6,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 90211423,
+              "duration": 65196112,
               "status": "passed"
             },
             "line": 7,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 893621985,
+              "duration": 1057583056,
               "status": "passed"
             },
             "line": 8,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 31772021,
+              "duration": 44598099,
               "status": "passed"
             },
             "line": 9,
@@ -85,7 +85,7 @@
           },
           {
             "result": {
-              "duration": 305662598,
+              "duration": 441230668,
               "status": "passed"
             },
             "line": 10,

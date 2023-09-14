@@ -13,7 +13,7 @@ public class DriverFactory {
             System.setProperty("webdriver.chrome.driver", "/Users/afa/Downloads/chromedriver-mac-x64/chromedriver");
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--remote-allow-origins=*");
-            options.setBinary("/Users/afa/Downloads/chrome-mac-x64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing");
+          //  options.setBinary("/Users/afa/Downloads/chrome-mac-x64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing");
             driver = new ChromeDriver(options);
 
         }
